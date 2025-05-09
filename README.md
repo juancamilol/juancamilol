@@ -1,4 +1,3 @@
-```mermaid
 graph TD
     A[Fuerza sobre Conductores] --> B(Campo Magnético Externo);
     A --> C(Corriente Eléctrica en el Conductor);
